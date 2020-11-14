@@ -12,7 +12,7 @@
 
 ### 下载
 
-#### 1.0.0版本：[Windows](https://345467.github.io/TkTk-Web/client1.cpp.exe)
+#### 1.0.0版本：[Windows](https://345467.github.io/TkTk-Web/TalkTalk1.0.0.exe)
     实现单独发送消息功能。
     运行时会生成一个log.log日志文件。
     可以通过编辑config.cfg定制GUI组件布局。
