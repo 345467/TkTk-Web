@@ -6,9 +6,13 @@
   2.速度快
   3.不依赖其他库（Windows自身GUI及Socket方面的API除外）
 
+### 警告
+    此软件暂不支持非Windows系统。
+    暂无开发Linux/Mac版本的计划。
+
 ### 下载
 
-#### 1.0.0版本：[Here](https://github.com/345467/TkTk-Web/raw/gh-pages/client1.cpp.exe)
+#### 1.0.0版本：[Windows](https://github.com/345467/TkTk-Web/raw/gh-pages/client1.cpp.exe)
     实现单独发送消息功能。
     运行时会生成一个log.log日志文件。
     可以通过编辑config.cfg定制GUI组件布局。
